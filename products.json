@@ -9,7 +9,7 @@
 	{
     "name": "Health Insurance",
 		"linkType": "webview",
-    "url": "https://preferential.club/apply/",
+    "url": "https://preferential.club/apply/health",
     "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/health-insurance.jpg",
     "description": "Take control of your health with our tailored health insurance plans. From routine check-ups to specialised treatments, we ensure you and your family receive the best care when it matters most."
   },
