@@ -1,0 +1,26 @@
+{
+  "videos": [
+    {
+      "url": "https://willvlad.github.io/preferential-onboarding/videos/intro1.mp4",
+      "title": "Welcome to Preferential",
+      "description": "Insurance. Wellness. Peace of mind—all in one app. From car cover to health and life protection, we’ve redesigned insurance around you.",
+			"imageUrl": "https://willvlad.github.io/preferential-onboarding/videos/merc2.jpg"
+    },
+    {
+			"url": "https://willvlad.github.io/preferential-onboarding/videos/intro2.mp4",
+
+      "title": "All Your Cover, One App",
+      "description": "Get car, health, life, and temporary insurance—plus cashback rewards, without the comparison site noise."
+    },
+    {
+			"url": "https://willvlad.github.io/preferential-onboarding/videos/intro3.mp4",
+
+      "title": "Built for Everyday Life",
+      "description": "Access wellness tools, meditation, and nutrition support—because your well-being is more than just a policy."
+    }
+  ]
+}
+
+
+
+

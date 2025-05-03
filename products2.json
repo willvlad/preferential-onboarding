@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Car Insurance",
+		 "linkType": "webview",
+    "url": "https://motor.preferential.club/",
+    "imageUrl": "https://preferential.club/img/images/features/car-insurance.jpg",
+    "description": "Protect your vehicle with our comprehensive car insurance. We offer coverage for accidents, theft, and damage to ensure your peace of mind on the road."
+  },
+	{
+    "name": "Health Insurance",
+		"linkType": "webview",
+    "url": "https://preferential.club/apply/",
+    "imageUrl": "https://preferential.club/img/images/features/health-insurance.jpg",
+    "description": "Take control of your health with our tailored health insurance plans. From routine check-ups to specialised treatments, we ensure you and your family receive the best care when it matters most."
+  },
+  {
+    "name": "Temporary Motor Insurance",
+		"linkType": "webview",
+    "url": "https://preferential.club/motor/query/",
+    "imageUrl": "https://preferential.club/img/images/features/temp-car-insurance.jpg",
+    "description": "Get flexible, short-term cover with our temporary motor insurance. Perfect for borrowing a car, sharing a drive, or taking a road trip, our policies are designed to give you peace of mind without a long-term commitment."
+  },
+
+  {
+    "name": "Life Insurance",
+		"linkType": "webview",
+    "url": "https://wecovr.com/life-insurance/request-quote/",
+    "imageUrl": "https://preferential.club/img/images/features/life-insurance.jpg",
+    "description": "Secure your family's future with our life insurance plans. We offer flexible policies to suit your needs and ensure your loved ones are taken care of."
+  },
+  {
+    "name": "Health & Nutrition",
+    "linkType": "external",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.example.healthapp",
+    "iosUrl": "https://apps.apple.com/app/id123456789",
+    "imageUrl": "https://preferential.club/img/images/features/smoothie.jpg",
+    "description": "Empower your well-being with our health and nutrition resources. Discover AI-powered nutrition advice, delicious recipes, and tools to help you achieve your fitness and dietary goals."
+  },
+  {
+    "name": "Wellbeing & Relaxation",
+    "linkType": "external",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.example.healthapp",
+    "iosUrl": "https://apps.apple.com/app/id123456789",
+    "imageUrl": "https://preferential.club/img/images/features/meditation.jpg",
+    "description": "Enhance your mindfulness practice with our collection of calming meditation sounds. Immerse yourself in soothing soundscapes to promote relaxation, focus, and inner peace."
+  }
+]
