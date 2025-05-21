@@ -28,6 +28,27 @@
     "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/life-insurance.jpg",
     "description": "Secure your family's future with our life insurance plans. We offer flexible policies to suit your needs and ensure your loved ones are taken care of."
   },
+    {
+    "name": "Over-50s Insurance",
+		"linkType": "webview",
+    "url": "https://preferential.club/apply/life",
+    "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/elderly_couple.jpg",
+    "description": "Guaranteed acceptance for UK residents aged 50 to 80. Over-50s life insurance helps leave a gift for loved ones or cover final expenses—with no medical required."
+  },
+  {
+  "name": "Income Insurance",
+  "linkType": "webview",
+  "url": "https://preferential.club/apply/life",
+  "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/income-insurance.jpg",
+  "description": "Protect your income if you're unable to work due to illness or injury. Our income protection plans provide monthly payouts to help you stay financially secure during recovery."
+},
+{
+  "name": "Critical Illness Insurance",
+  "linkType": "webview",
+  "url": "https://preferential.club/apply/life",
+  "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/critical-illness-insurance.jpg",
+  "description": "Receive a tax-free lump sum if you're diagnosed with a serious illness. Our critical illness cover gives you the financial support you need to focus on getting better."
+},
   {
     "name": "Health & Nutrition",
     "linkType": "external",
