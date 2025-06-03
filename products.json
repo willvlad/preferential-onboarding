@@ -6,6 +6,14 @@
     "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/car-insurance.jpg",
     "description": "Protect your vehicle with our comprehensive car insurance. We offer coverage for accidents, theft, and damage to ensure your peace of mind on the road."
   },
+   {
+  "name": "Car Insurance Policy Hub",
+  "linkType": "external",
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.appliedsystems.mobileinsured.wecov02&pli=1",
+  "iosUrl": "https://apps.apple.com/gb/app/preferential-policy-hub/id6746561142",
+  "imageUrl": "https://willvlad.github.io/preferential-onboarding/images/policy-hub.jpg",
+  "description": "Take control of your car insurance paperwork with ease. The Car Insurance Policy Hub puts all your essential documents at your fingertips – accessible anytime, anywhere. Securely store, view and manage your policy details in one smart, streamlined place."
+},
 	{
     "name": "Health Insurance",
 		"linkType": "webview",
