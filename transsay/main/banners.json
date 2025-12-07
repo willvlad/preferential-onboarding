@@ -1,0 +1,20 @@
+[
+    {
+        "id": "insurance",
+        "title": "Private health insurance keeps expats confident anywhere in the world.",
+        "subtitle": "Global care reminder",
+        "description": "Cover medical surprises before they happen. Whether you work abroad or split time between countries, dedicated private insurance ensures fast access to clinics that understand international lifestyles.",
+        "ctaText": "See personalized plans →",
+        "ctaUrl": "https://wecovr.com/products/private-medical-insurance-request/?utm_source=ts&utm_campaign=ts",
+        "badge": "Health"
+    },
+    {
+        "id": "finance",
+        "title": "Move money across borders without surprises.",
+        "subtitle": "Finance for international workers",
+        "description": "Get fair FX, instant debit, and multi-currency wallets so you can pay, get paid, and spend abroad like a local—without hidden fees.",
+        "ctaText": "Explore FX & debit options →",
+        "ctaUrl": "https://wise.com/invite/ihpc/vladimirs179",
+        "badge": "Finance"
+    }
+]
